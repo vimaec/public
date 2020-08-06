@@ -1,4 +1,4 @@
-# VIM Public Release
+# VIM Public Releases
 
 This repository contains the public releases of VIM software.
 
